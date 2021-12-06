@@ -39,5 +39,3 @@ def swap(array, i, j):
     array[i] = number
     return array
 
-array = [10, 20, 60, 90, 80, 90, 30, 70]
-print(quicksort(array))

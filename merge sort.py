@@ -50,9 +50,7 @@ def mergesort(arr):
         return arr
     else:
         return arr
-		
-a = [1, 99099, 9999, 10000]
-print(mergesort(a))
+
     
 
 
